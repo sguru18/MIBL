@@ -1,0 +1,21 @@
+.DS_Store
+venv
+
+*.png
+*.jpg
+*.csv
+
+data/
+
+*.json
+
+*.pt
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Packaging
+*.egg-info/
+dist/
+build/
