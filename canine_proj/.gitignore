@@ -5,7 +5,7 @@ venv
 *.jpg
 *.csv
 
-data/
+new_Dog_CT/
 
 *.json
 
